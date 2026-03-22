@@ -12,6 +12,9 @@ A lightweight desktop calculator built with Python and `tkinter`.
 - Memory controls: `MC`, `MR`, `M+`, `M-`
 - Saved calculation history
 - Keyboard shortcuts and copy tools
+- Safe expression evaluation (AST-based)
+- History system with JSON storage
+- GUI built with Tkinter
 
 ## Requirements
 
