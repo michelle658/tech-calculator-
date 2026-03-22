@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 calculator_history.json
+build/
+dist/
+*.spec
