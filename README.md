@@ -23,6 +23,8 @@ A lightweight desktop calculator built with Python and `tkinter`.
 
 ## Run
 
+Windows users can download the ready-to-use `.exe` file from the Releases section.
+
 ```powershell
 python calculator.py
 ```
